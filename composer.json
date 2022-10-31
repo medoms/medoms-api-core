@@ -1,5 +1,5 @@
 {
-  "name": "medoms/medoms-core",
+  "name": "medoms/medoms-api-core",
   "description": "Medoms core server api package",
   "require": {
     "php": ">=8.1"
