@@ -1,0 +1,8 @@
+{
+  "name": "medoms/medoms-core",
+  "description": "Medoms core server api package",
+  "require": {
+    "php": ">=8.1"
+  },
+  "license": "proprietary"
+}
